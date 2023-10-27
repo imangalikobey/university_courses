@@ -1,0 +1,5 @@
+This is a sample text file.
+It has multiple lines and many words to count.
+The objective is to analyze this text.
+Determine the total number of lines, words, and other metrics.
+Good luck!

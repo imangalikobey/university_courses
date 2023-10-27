@@ -1,0 +1,3 @@
+Province with Highest Population: South_Kazakhstan - 2500000
+Province with Largest Area: Karaganda - 428000.00 sq.km
+Average Population Density 6.95 people/sq.km
